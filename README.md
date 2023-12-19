@@ -9,4 +9,6 @@ To optimize agricultural methods, conserve resources, and increase output, this 
 
 Potential commercial applications of this invention can be targeted with the budding urban farming communities and horticulture areas like greenhouses as its beneficiaries, with the goal of this invention being to support food security within the functionalities of the said product. Further development of the product may enable it to be more compact and effective in performing the said functionalities. This project is available to be edited by anyone, just contact us for details.
 
-![alt text](https://github.com/arashinomarco/Horticulture-Environment-Arduino-Resource-Terminal/blob/main/Other%20Assets/Project%20HEART%20Logo%201.png?raw=true)
+![Logo](https://github.com/arashinomarco/Horticulture-Environment-Arduino-Resource-Terminal/blob/main/Other%20Assets/Project%20HEART%20Logo%201.png?raw=true)
+![Blueprint](https://github.com/arashinomarco/Horticulture-Environment-Arduino-Resource-Terminal/blob/main/Other%20Assets/Project%20HEART%20Blueprint%201%20-%20Green%20BG.png?raw=true)
+![Product](https://github.com/arashinomarco/Horticulture-Environment-Arduino-Resource-Terminal/blob/main/Other%20Assets/Project%20HEART%20Finish%20-%20Green%20BG.png?raw=true)
