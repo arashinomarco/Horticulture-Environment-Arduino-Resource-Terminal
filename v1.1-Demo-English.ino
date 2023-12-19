@@ -73,7 +73,7 @@ void startReadings() {
          }
 
         break;
-
+      
       case 2:
 
         Serial.print("Reading Humidity: ");
@@ -94,8 +94,9 @@ void startReadings() {
 
 
         break;
+      
       case 3:
-        // Soil Moisture
+
         soilMoistureValue = analogRead(soilMoisturePin);
         moisturePercentage = map(soilMoistureValue, 0, 1023, 0, 100);
         Serial.print("Reading Soil Moisture: ");
@@ -103,15 +104,15 @@ void startReadings() {
         Serial.println("%.");
 
         if (moisturePercentage < 20) {
-    Serial.println("The water level in the container is too low, please refill the water supply immediately.");
+    Serial.println("The soil moisture level is too low, water the plant immediately.");
         } else if (moisturePercentage < 40) {
-    Serial.println("The water level in the container is low, prepare to refill the water supply.");
+    Serial.println("The soil moisture level is low, water the plant to support plant growth.");
         } else if (moisturePercentage < 60) {
-    Serial.println("The water level in the container is at a moderate level, you still have enough water for intended use.");
+    Serial.println("The soil moisture level is moderate, providing suitable conditions for plant health.");
         } else if (moisturePercentage < 80) {
-    Serial.println("The water level in the container is high, you have enough water for your needs.");
+    Serial.println("The soil moisture level is high, creating a favorable environment for plants to thrive.");
         } else {
-    Serial.println("The water level in the container is excessively high, please drain the water supply immediately.");
+    Serial.println("The soil moisture level is excessively high, potentially leading to waterlogged soil and plant stress.");
         }
 
         break;
