@@ -21,3 +21,7 @@ To see how the project is made, here are the project update videos that were mad
 [![Project Update 1](https://img.youtube.com/vi/MEZTpggcBWU/0.jpg)](https://www.youtube.com/watch?v=MEZTpggcBWU)
 [![Project Update 2](https://img.youtube.com/vi/9F9G0XREmz4/0.jpg)](https://www.youtube.com/watch?v=9F9G0XREmz4)
 [![Project Update 3](https://img.youtube.com/vi/r7t68qT2mUs/0.jpg)](https://www.youtube.com/watch?v=r7t68qT2mUs)
+
+Process Flowchart:
+
+![Flowchart](https://github.com/arashinomarco/Horticulture-Environment-Arduino-Resource-Terminal/blob/main/Other%20Assets/Process%20Flowchart.png?raw=true)
