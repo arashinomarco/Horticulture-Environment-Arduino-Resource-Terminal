@@ -1,0 +1,162 @@
+----------TEMPERATURE----------
+
+[ENGLISH]
+The environment's temperature reading is too cold for your plant, which may hinder its growth and health.
+The environment's temperature reading is cool, this may be ideal for some plants.
+The environment's temperature reading is moderate, providing comfortable conditions for your plant.
+The environment's temperature reading is warm, this is suitable for your plant's growth.
+The environment's temperature reading is too hot, this may harm your plant due to excessive heat.
+
+[TAGALOG]
+Ang temperatura ng kapaligiran ay masyadong malamig para sa iyong halaman, mapanganib ito sa halaman at maaaring maging hadlang ito sa paglago.
+Ang temperatura ng kapaligiran ay malamig, na maaaring mainam para sa ilang mga halaman.
+Ang temperatura ng kapaligiran ay katamtaman, magbibigay ito ng komportableng kondisyon para sa iyong halaman.
+Ang temperatura ng kapaligiran ay mainit init, ito ay angkop para sa paglago ng iyong halaman.
+Ang temperatura ng kapaligiran ay masyadong mainit, maaaring makapinsala ito sa iyong halaman dahil sa labis na init.
+
+[PANGASINENSE 1]
+Say temperatura ya kaliberliber et alabas ya ambetel para ed tanaman mo, delikado ya para ed sa may tanaman tan sarag to yan makaderal ed panagbaleg to.
+Say temperatura ya kaliberliber et ambetel, sarag ton maong ya para ed saray arom ya tanaman.
+Say temperatura ya kaliberliber et katamtaman, mangiter ya maong ya kipapasen para ed tanaman mo.
+Say temperatura ya kaliberliber et ampetang, manepeg ya ed panagbaleg ya tanaman mo.
+Say temperatura ya kaliberliber et alabas ya ampetang, sarag to yan makaderal ed panagbaleg ya tanaman mo lapud alabas ya petang.
+
+[PANGASINENSE 2]
+Say nalan bilang ya temperatura ay masyadong ambetel ed kapaligiran parad tanaman. Ya saragtong hadlangan su ikabaleg to ed kalusugan.
+Say nalan ya bilang na temperatura ed kapaligiran ay ambetel , ayay bali baling pantanim.
+No say nalam na bilang ya temperatura na dalin et komportablen maong, maabig so kipapasen na tanaman mo
+No Say nalam bilang ya temperature na kaliberliber et anpetang,  pian mabalibali so tubo ya tanaman.
+No say nalan datos ya temperatura na kaliberliber et pinasiya so petang, et nayarin makaderal ya tanem lapud  sobran petang.
+
+[ILOKANO]
+Nalamiis unay ti temperatura ti aglawlaw para iti mulam, napeggad dayta iti mula ken mabalin a lapdanna ti panagdakkelna.
+Nalamiis ti temperatura ti aglawlaw, a mabalin a nasayaat para iti dadduma a mula.
+Kalkalainganna ti temperatura ti aglawlaw, mangipaay dayta iti komportable a kasasaad para iti mulam.
+Nabara ti temperatura ti aglawlaw, maibagay dayta iti panagdakkel ti mulam.
+Napudot unay ti temperatura ti aglawlaw, mabalin a dadaelenna ti mulam gapu iti nalabes a pudot.
+
+[BISAYA]
+Ang pagbasa sa temperatura sa palibot bugnaw kaayo alang sa imong tanum, nga mahimong makababag sa pagtubo ug kahimsog niini.
+Ang pagbasa sa temperatura sa palibot kay bugnaw, kini mahimong maayo alang sa pipila ka mga tanum.
+Ang pagbasa sa temperatura sa palibot kasarangan, nga naghatag komportable nga mga kondisyon alang sa imong tanum.
+Ang pagbasa sa temperatura sa palibot init, kini angay alang sa pagtubo sa imong tanum.
+Ang pagbasa sa temperatura sa palibot init kaayo, kini mahimong makadaot sa imong tanum tungod sa sobra nga kainit.
+
+[BIKOLANO]
+
+----------HUMIDITY----------
+
+[ENGLISH]
+The environment's humidity level is too low, this may not provide sufficient moisture for your plant's health.
+The environment's humidity level is low, this may not provide adequate moisture for your plant's health.
+The environment's humidity level is moderate, creating an ideal environment for your plant to thrive.
+The environment's humidity level is relatively high, this can be favorable for your plant's growth.
+The environment's humidity level is too high, potentially leading to excessive moisture and affecting your plant's development.
+
+[TAGALOG]
+Ang kahalumigmigan ng kapaligiran ay masyadong mababa, maaaring hindi ito makakapagbigay ng sapat na kahalumigmigan para sa kalusugan ng iyong halaman.
+Ang kahalumigmigan ng kapaligiran ay mababa, na maaaring hindi magbigay ng sapat na kahalumigmigan para sa kalusugan ng iyong halaman.
+Ang kahalumigmigan ng kapaligiran ay katamtaman, na lumilikha ng isang mainam na kapaligiran para sa iyong halaman upang umunlad.
+Ang kahalumigmigan ng kapaligiran ay medyo mataas, na maaaring maging kanais nais para sa paglago ng iyong halaman.
+Ang kahalumigmigan ng kapaligiran ay masyadong mataas, maaaring humantong ito sa labis na kahalumigmigan at nakakaapekto sa paglago ng iyong halaman.
+
+[PANGASINENSE]
+Napakalubsab ya humidity, ag to ni iter ya kyun na need ki moisture para sa tanaman
+Lubsab ya humidity, ag to ni iter ya kyun na sapat na need ki moisture para sa tanaman
+Parehas labat ya humidity, ideal para tanaman binmaleg
+Tataguy ya humidity, masanting parag tanaman
+Tataguy yi maong, potentially nakakadiral ud umbaleg ng tanaman
+
+[ILOKANO]
+Nababa unay ti dam-eg ti aglawlaw, mabalin a saan nga umdas ti agnebna para iti salun-at ti mulam.
+Nababa ti dam-eg ti aglawlaw, a mabalin a saan nga umdas ti agneb para iti salun-at ti mulam.
+Kalkalainganna ti kinadam-eg ti aglawlaw, a mangpataud iti nasayaat nga aglawlaw tapno rumang-ay ti mulam.
+Medio nangato ti dam-eg ti aglawlaw, a mabalin a matarigagayan para iti panagdakkel ti mulam.
+Nangato unay ti dam-eg ti aglawlaw, mabalin nga agtungpal dayta iti sobra a agneb ken apektaranna ti panagdakkel ti mulam.
+
+[BISAYA]
+Ang lebel sa humidity sa palibot ubos kaayo, dili kini makahatag og igong kaumog alang sa kahimsog sa imong tanum.
+Ubos ang lebel sa humidity sa palibot, dili kini makahatag og igong kaumog alang sa kahimsog sa imong tanum.
+Ang lebel sa humidity sa palibot kasarangan, nga nagmugna usa ka sulundon nga palibot alang sa imong tanum nga molambo.
+Ang lebel sa humidity sa palibot medyo taas, kini mahimong paborable alang sa pagtubo sa imong tanum.
+Taas kaayo ang lebel sa humidity sa palibot, nga posibleng mosangpot sa sobrang kaumog ug makaapekto sa paglambo sa imong tanom.
+
+[BIKOLANO]
+
+----------SOIL MOISTURE----------
+
+[ENGLISH]
+The soil moisture level is too low, water the plant immediately.
+The soil moisture level is low, water the plant to support plant growth.
+The soil moisture level is moderate, providing suitable conditions for plant health.
+The soil moisture level is high, creating a favorable environment for plants to thrive.
+The soil moisture level is excessively high, potentially leading to waterlogged soil and plant stress.
+
+[TAGALOG]
+Ang antas ng kahalumigmigan ng lupa ay masyadong mababa, agad na diligan ang halaman.
+Ang antas ng kahalumigmigan ng lupa ay mababa, diligan ang halaman upang suportahan ang paglago ng halaman.
+Ang antas ng kahalumigmigan ng lupa ay katamtaman, na nagbibigay ng angkop na mga kondisyon para sa kalusugan ng halaman.
+Ang antas ng kahalumigmigan ng lupa ay mataas, na lumilikha ng isang kanais-nais na kapaligiran para sa mga halaman upang umunlad.
+Ang antas ng kahalumigmigan ng lupa ay labis na mataas, na posibleng humahantong sa matubig na lupa at stress ng halaman.
+
+[PANGASINENSE]
+An dalin ay masyadong mapituk, sa lug mo ramay tanaman ya tampot.
+An dalin ay mapituk, sa lug mo tanaman para magano magano baleg ya tampot.
+Say dalin ay tamang basa tu, masanting sa condition yan tanaman.
+Say dalin ay ambasa basa, masanting yan tanaman baleg ay tampol.
+Say dalin too much ambasa basa, ta kyun su tanaman ke stress.
+
+[ILOKANO]
+Nababa unay ti soil moisture level, sibugan a dagus ti mula.
+Nababa ti lebel ti agneb ti daga, sibugan ti mula tapno suportaran ti panagdakkel ti mula.
+Kalkalainganna ti lebel ti agneb ti daga, a mangipaay kadagiti maitutop a kasasaad para iti salun-at ti mula.
+Nangato ti lebel ti agneb ti daga, a mangpataud iti paborable nga aglawlaw tapno rumang-ay dagiti mula.
+Nalabes ti kangato ti lebel ti agneb ti daga, a mabalin nga agtungpal iti nadanum a daga ken stress ti mula.
+
+[BISAYA]
+Ang lebel sa kaumog sa yuta ubos kaayo, tubig dayon ang tanum.
+Ang lebel sa kaumog sa yuta gamay, tubig ang tanum aron masuportahan ang pagtubo sa tanum.
+Ang lebel sa kaumog sa yuta kasarangan, nga naghatag og angay nga kondisyon alang sa kahimsog sa tanum.
+Ang lebel sa kaumog sa yuta taas, nga nagmugna og paborableng palibot alang sa mga tanum nga molambo.
+Ang lebel sa kaumog sa yuta sobra ka taas, nga mahimong mosangput sa tubig nga yuta ug stress sa tanum.
+
+[BIKOLANO]
+
+----------WATER LEVEL----------
+
+[ENGLISH]
+The water level in the container is too low, please refill the water supply immediately.
+The water level in the container is low, prepare to refill the water supply.
+The water level in the container is at a moderate level, you still have enough water for intended use.
+The water level in the container is high, you have enough water for your needs.
+The water level in the container is excessively high, please drain the water supply immediately.
+
+[TAGALOG]
+Ang antas ng tubig sa lalagyan ay masyadong mababa, pakipuno agad ang suplay ng tubig.
+Ang antas ng tubig sa lalagyan ay mababa, maghanda upang muling punan ang suplay ng tubig.
+Ang antas ng tubig sa lalagyan ay nasa katamtamang antas, mayroon ka pa ring sapat na tubig para sa layuning gamitin.
+Ang antas ng tubig sa lalagyan ay mataas, mayroon kang sapat na tubig para sa iyong mga pangangailangan.
+Ang antas ng tubig sa lalagyan ay labis na mataas, mangyaring palabasin kaagad ang suplay ng tubig.
+
+[PANGASINENSE]
+Say kin na danom alitsab ya maong, kargaan mo ramay panganinan danom.
+Say kin na danom alitsab na manaya, iprepare mo ramay pananginan danom.
+Say danom pagluy su lebel tu, wala na niy danom ah sapat supply.
+Taguy ang lebel ng danom sa pananingan, wala na niy danom yah sapat supply pangangailangan.
+Masyadong ataguy ang lebel ng danom, alisan mo ray danom sa supply.
+
+[ILOKANO]
+Nababa unay ti water level iti container, pangngaasiyo ta punnuenyo a dagus ti suplay ti danum.
+Nababa ti lebel ti danum iti pagkargaan, agsagana a mangpunno manen iti suplay ti danum.
+Ti lebel ti danum iti pagkargaan ket adda iti kalalainganna a lebel, adda pay laeng umdas a danummo para iti nairanta a pannakausar.
+Nangato ti lebel ti danum iti pagkargaan, umdas ti danummo para kadagiti kasapulam.
+Nangato unay ti water level iti container, pangngaasiyo ta iruaryo a dagus ti suplay ti danum.
+
+[BISAYA]
+Ubos kaayo ang lebel sa tubig sa sudlanan, palihug pun-i dayon ang suplay sa tubig.
+Ang lebel sa tubig sa sudlanan ubos, pag-andam sa pagpuno sa suplay sa tubig.
+Ang lebel sa tubig sa sudlanan anaa sa kasarangan nga lebel, aduna ka pay igong tubig alang sa gituyo nga paggamit.
+Taas ang lebel sa tubig sa sudlanan, adunay ka igo nga tubig alang sa imong mga panginahanglan.
+Ang lebel sa tubig sa sudlanan sobra ka taas, palihug habwa dayon ang suplay sa tubig.
+
+[BIKOLANO]
