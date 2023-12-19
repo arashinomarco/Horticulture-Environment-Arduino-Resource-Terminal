@@ -4,6 +4,7 @@
 ##### "Blossoming Possibilities, One HEART at a Time"
 
 [![Pitch](https://img.youtube.com/vi/jjRPsUpYvx0/0.jpg)](https://www.youtube.com/watch?v=jjRPsUpYvx0)
+[![Final](https://img.youtube.com/vi/2eCFQCTXoSQ/0.jpg)](https://www.youtube.com/watch?v=2eCFQCTXoSQ)
 
 The Horticulture Environment Arduino Resource Terminal, dubbed Project HEART, is designed to address a range of agricultural challenges, including low crop yields and food security concerns while bridging the longstanding gap in research and development within the industry. The basis of it is its forefront sensor technology, which has the power to completely transform the Philippine agriculture industry. There is a sizable market and a pressing need for such a creative technique as farming occupies over 40% of the country's territory and employs almost five million people. 
 
