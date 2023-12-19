@@ -1,7 +1,7 @@
 #include <SPI.h>
 #include <SD.h>
 
-const int chipSelect = 10; // CS pin
+const int chipSelect = 25
 
 void setup() {
   Serial.begin(9600);
