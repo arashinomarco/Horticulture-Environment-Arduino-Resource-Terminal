@@ -43,6 +43,11 @@ Ang pagbasa sa temperatura sa palibot init, kini angay alang sa pagtubo sa imong
 Ang pagbasa sa temperatura sa palibot init kaayo, kini mahimong makadaot sa imong tanum tungod sa sobra nga kainit.
 
 [BIKOLANO]
+Malipoton ang temperatura na pwede makaraot sa pagbuhay kang tanom.
+Malipot ang temperatura na tama para pagbuhay kang tanom.
+Bako malipot asin bako mainit ang temperatura na tama sana pangbuhah ki tanom.
+Mainit-int ang temperatura na tama sana para sa tanom.
+Mainiton ang temperatura na pwede ining makaraot sa buhay kang tanom.
 
 ----------HUMIDITY----------
 
@@ -82,6 +87,11 @@ Ang lebel sa humidity sa palibot medyo taas, kini mahimong paborable alang sa pa
 Taas kaayo ang lebel sa humidity sa palibot, nga posibleng mosangpot sa sobrang kaumog ug makaapekto sa paglambo sa imong tanom.
 
 [BIKOLANO]
+Hababaon ang lebel kang humidity na dai kaini kayang buhayon ang tanom.
+Hababa na sana ang lebel kang humidity, dae na mahusto ang moisture para buhayon ang tanom. 
+Tama sana ang lebel kang humidity para mabuhay ang mga tanom.
+Dakol ang lebel kang humidity na marhay sa pagbuhay kang tanom.
+Dakulon ang lebel kang humidity na pwede ining makaapekto sa buhay kang tanom. 
 
 ----------SOIL MOISTURE----------
 
@@ -121,6 +131,11 @@ Ang lebel sa kaumog sa yuta taas, nga nagmugna og paborableng palibot alang sa m
 Ang lebel sa kaumog sa yuta sobra ka taas, nga mahimong mosangput sa tubig nga yuta ug stress sa tanum.
 
 [BIKOLANO]
+Diiton na sana ang lebel kang moisture sa daga. Tubigan tulos ang mga tanom tanganing dai magadan. 
+Diit na sana ang lebel kang moisture sa daga. Tubigan ang mga tanom.
+Ugwa pang sapat na lebel kang moisture sa daga para buhayon ang mga tanom.
+Dakol pa ang lebel kang moisture sa daga pambuhay sa mga tanom.
+Sobrahon ang lebel kang moisture sa daga. Pwede ining makaraot sa tanom buda sa daga. 
 
 ----------WATER LEVEL----------
 
@@ -160,3 +175,8 @@ Taas ang lebel sa tubig sa sudlanan, adunay ka igo nga tubig alang sa imong mga 
 Ang lebel sa tubig sa sudlanan sobra ka taas, palihug habwa dayon ang suplay sa tubig.
 
 [BIKOLANO]
+Diiton na sana ang lebel kang tubig. Pakilaagan tulos tanganing mapalitan. 
+Diit na sana ang tubig sa laagan. Mag-ipos na sa pagsalida kang tubig.
+Ugwa pang supply kang tubig. Pwede pang gamiton.
+Dakol pa ang supply ki tubig, kasyahon pang panggamit kung nanganga-ipo.
+Dakulon ang lebel kang tubig sa lagaan. Bawasan tulos ang tubig.
